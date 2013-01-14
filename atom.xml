@@ -4,7 +4,7 @@
   <title><![CDATA[Python North East Blog]]></title>
   <link href="http://pythonnortheast.github.com/atom.xml" rel="self"/>
   <link href="http://pythonnortheast.github.com/"/>
-  <updated>2013-01-14T12:59:20+00:00</updated>
+  <updated>2013-01-14T14:01:39+00:00</updated>
   <id>http://pythonnortheast.github.com/</id>
   <author>
     <name><![CDATA[Python North East]]></name>
@@ -20,7 +20,7 @@
     <id>http://pythonnortheast.github.com/blog/2013/01/14/februarys-meetup</id>
     <content type="html"><![CDATA[<p>Tickets for <a href="http://pythonnortheast.eventbrite.co.uk">our February Meetup</a> (12th of Feb) are now available.</p>
 
-<p>This meetup will be our first at the new location of <a href="http://newcastlebusinessvillage.co.uk/">Calvering House</a> who have graciously obliged to house our meetups into the future (<em>thanks Li</em>)</p>
+<p>This meetup will be our first at the new location of <a href="http://newcastlebusinessvillage.co.uk/">Clavering House</a> who have graciously obliged to house our meetups into the future (<em>thanks Li</em>)</p>
 
 <p>We&#8217;re in the process of confirming the talk and looking for someone to do a show a tell, so if you want to show the world what you&#8217;ve been hacking away on, then this is your chance.  If you&#8217;re interested <a href="http://pythonnortheast.github.com/contact/">drop us a line</a>.</p>
 ]]></content>
