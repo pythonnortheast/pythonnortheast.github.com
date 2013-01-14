@@ -1,92 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Python North East Blog</title>
-  <meta name="author" content="Python North East">
-
-  
-  <meta name="description" content="Novembers Meetup We all had a cracking time at the meetup on Tuesday and judging by the tweets, so did everyone else. This was our third formal &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://blog.pythonnortheast.co.uk/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="Python North East Blog" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Python North East Blog</a></h1>
-  
-    <h2>All the stuff happening at Python North East</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Python North East Blog]]></title>
+  <link href="http://blog.pythonnortheast.co.uk/atom.xml" rel="self"/>
+  <link href="http://blog.pythonnortheast.co.uk/"/>
+  <updated>2013-01-14T12:25:00+00:00</updated>
+  <id>http://blog.pythonnortheast.co.uk/</id>
+  <author>
+    <name><![CDATA[Python North East]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2012/11/16/novembers-meetup-were-getting-stronger/">November&#8217;s Meetup - We&#8217;re Getting Stronger</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2012-11-16T06:37:00+00:00" pubdate data-updated="true">Nov 16<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h1>Novembers Meetup</h1>
+  <entry>
+    <title type="html"><![CDATA[November's meetup -  we're getting stronger]]></title>
+    <link href="http://blog.pythonnortheast.co.uk/blog/2012/11/16/novembers-meetup-were-getting-stronger/"/>
+    <updated>2012-11-16T06:37:00+00:00</updated>
+    <id>http://blog.pythonnortheast.co.uk/blog/2012/11/16/novembers-meetup-were-getting-stronger</id>
+    <content type="html"><![CDATA[<h1>Novembers Meetup</h1>
 
 <p>We all had a cracking time at the meetup on Tuesday and judging by the tweets, so did everyone else.  This was our third formal meetup since the group resureccted itself back in September and I think it&#8217;s safe to say that we&#8217;re finding our feet and that we&#8217;re on track to grow into a really strong community of Python Users in 2013.</p>
 
@@ -139,42 +71,15 @@
 <p>We&#8217;ll be working from an <a href="http://openetherpad.org/python-north-east-official-meeting-dec-2012">agenda that we&#8217;re going to put together</a> over the next few weeks and the meeting will be chaired by myself (Jamie Curle) minutes will be taken by Dave Jeffery and everyone is welcome to attend.</p>
 
 <p>Please do bear in mind however that this is not a meetup -  The meeting is our first &#8216;serious&#8217; official meeting so that we can decide a plan of action for the groups future  and <em>everything</em> will come from <a href="http://openetherpad.org/python-north-east-official-meeting-dec-2012">the meeting&#8217;s etherpad</a> which anyone is free to contribute to.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/17/novembers-meetup/">Novembers Meetup</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-17T01:40:00+01:00" pubdate data-updated="true">Oct 17<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Here&#8217;s what we&#8217;ve got lined up for our next meet up on 13th November 2013.</p>
+  <entry>
+    <title type="html"><![CDATA[Novembers Meetup]]></title>
+    <link href="http://blog.pythonnortheast.co.uk/blog/2012/10/17/novembers-meetup/"/>
+    <updated>2012-10-17T01:40:00+01:00</updated>
+    <id>http://blog.pythonnortheast.co.uk/blog/2012/10/17/novembers-meetup</id>
+    <content type="html"><![CDATA[<p>Here&#8217;s what we&#8217;ve got lined up for our next meet up on 13th November 2013.</p>
 
 <p><a href="http://pythonnortheast.eventbrite.co.uk/">Tickets are available now via eventbrite</a>.</p>
 
@@ -218,78 +123,24 @@
 <p>Cheers,</p>
 
 <p>Jamie.</p>
-</div>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[Octobers Meetup]]></title>
+    <link href="http://blog.pythonnortheast.co.uk/blog/2012/09/22/octobers-meetup/"/>
+    <updated>2012-09-22T12:19:00+01:00</updated>
+    <id>http://blog.pythonnortheast.co.uk/blog/2012/09/22/octobers-meetup</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/09/22/octobers-meetup/">Octobers Meetup</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-09-22T12:19:00+01:00" pubdate data-updated="true">Sep 22<span>nd</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/09/14/septembers-meetup/">Septembers Meetup</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-09-14T09:04:00+01:00" pubdate data-updated="true">Sep 14<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>We had a great night on Tuesday the 11th of September at the first meetup in a long while. We had 15 attendees and managed to chomp through 2 topics, 1 workshop, 10 pizzas and 4 bottles of pop.</p>
+  <entry>
+    <title type="html"><![CDATA[Septembers Meetup]]></title>
+    <link href="http://blog.pythonnortheast.co.uk/blog/2012/09/14/septembers-meetup/"/>
+    <updated>2012-09-14T09:04:00+01:00</updated>
+    <id>http://blog.pythonnortheast.co.uk/blog/2012/09/14/septembers-meetup</id>
+    <content type="html"><![CDATA[<p>We had a great night on Tuesday the 11th of September at the first meetup in a long while. We had 15 attendees and managed to chomp through 2 topics, 1 workshop, 10 pizzas and 4 bottles of pop.</p>
 
 <h2>Slides</h2>
 
@@ -323,97 +174,7 @@ He&#8217;s volunteered to talk about Flask as an inroad to python web frameworks
 <p>Cheers,</p>
 
 <p>Python North East.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2012/11/16/novembers-meetup-were-getting-stronger/">November&#8217;s meetup -  we&#8217;re getting stronger</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/10/17/novembers-meetup/">Novembers Meetup</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/09/22/octobers-meetup/">Octobers Meetup</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/09/14/septembers-meetup/">Septembers Meetup</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("PythonNorthEast", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/PythonNorthEast" class="twitter-follow-button" data-show-count="false">Follow @PythonNorthEast</a>
-  
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Python North East -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
