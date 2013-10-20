@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Meetups | Python North East Blog]]></title>
+  <link href="http://pythonnortheast.github.com/blog/categories/meetups/atom.xml" rel="self"/>
+  <link href="http://pythonnortheast.github.com/"/>
+  <updated>2013-01-15T08:01:50+00:00</updated>
+  <id>http://pythonnortheast.github.com/</id>
+  <author>
+    <name><![CDATA[Python North East]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Novembers Meetup]]></title>
+    <link href="http://pythonnortheast.github.com/blog/2012/10/17/novembers-meetup/"/>
+    <updated>2012-10-17T01:40:00+01:00</updated>
+    <id>http://pythonnortheast.github.com/blog/2012/10/17/novembers-meetup</id>
+    <content type="html"><![CDATA[<p>Here's what we've got lined up for our next meet up on 13th November 2013.</p>
+
+<p><a href="http://pythonnortheast.eventbrite.co.uk/">Tickets are available now via eventbrite</a>.</p>
+
+<h2>6pm - Kick off</h2>
+
+<p>Jamie will be kicking everything off with an overview of what's lined up for the night.</p>
+
+<h2>6:10 - 6:40pm - Intro to Strings &amp;  Namespacing.</h2>
+
+<p>We're carrying on the introduction to python and this month.</p>
+
+<ul>
+<li>Dave will be showing everyone about namespacing in python</li>
+<li>Kieren will be showing you more about string formatting</li>
+<li>Simon will be doing something, but we're not sure what just yet.</li>
+</ul>
+
+
+<h2>6:40 - 7:00pm - What you've been doing with Python.</h2>
+
+<p>We're looking for two people to stand up and show the group what they've been doing with python since the last meetup. It'll be two talks of strictly 10 mins - <a href="https://groups.google.com/forum/?fromgroups#!topic/python-north-east/o2_FShg56Mw">checkout this thread for more info</a></p>
+
+<h2>7:00 - 7:30pm - How to get started building a webapp in flask workshop</h2>
+
+<p>Kieran Darcy will be doing a talk/workshop on Flask and how to get started building a basic app. You'll be able to code along so bring your machine.</p>
+
+<h2>7:30 - 8pm - Pizza and jibber jabber.</h2>
+
+<p>A chance to catch up with everyone from the group and to meet other python folk from the North East python scene whilst chomping on free pizza courtesy of <a href="http://designcc.co.uk">c&amp;c Design</a> and <a href="https://obscuremetaphor.co.uk">Obscure Metaphor</a>.</p>
+
+<h2>> 8pm - The Pub</h2>
+
+<p>This is where the "unofficial meetup" takes place :)</p>
+
+<h2>Fancy it?</h2>
+
+<p><a href="http://pythonnortheast.eventbrite.co.uk/">Tickets are available now via eventbrite</a>.</p>
+
+<p>See you there.</p>
+
+<p>Cheers,</p>
+
+<p>Jamie.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Octobers Meetup]]></title>
+    <link href="http://pythonnortheast.github.com/blog/2012/09/22/octobers-meetup/"/>
+    <updated>2012-09-22T12:19:00+01:00</updated>
+    <id>http://pythonnortheast.github.com/blog/2012/09/22/octobers-meetup</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
